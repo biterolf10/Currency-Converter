@@ -1,5 +1,6 @@
 # currency converter
 > fast currency converter
+#### **you can execute this code with [OneCompiler](https://onecompiler.com/lua)**
 
 ## usage
 1. type main currency name (that you wanna convert to another)
