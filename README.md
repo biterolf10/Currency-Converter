@@ -1,6 +1,6 @@
 # currency converter
 > fast currency converter
-#### <a href="https://lua.org"><img src="https://img.shields.io/badge/lua-5.4-blue"></a>
+#### <a href="https://lua.org"><img src="https://img.shields.io/badge/Lua-5.4-blue"></a>
 #### **you can execute this code with [OneCompiler](https://onecompiler.com/lua)**
 
 ## usage
