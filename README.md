@@ -16,4 +16,5 @@ usd kzt 1000
 ## converter roadmap
 - [x] optimize code to one function
 - [ ] add more popular currency
+- [ ] find way to update currency automaticly
 - [x] convert lua code to c++ code
