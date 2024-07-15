@@ -1,28 +1,19 @@
 # currency converter
 > fast currency converter
-#### <a href="https://lua.org"><img src="https://img.shields.io/badge/Lua-5.4-blue"></a>
-#### **you can execute this code with [OneCompiler](https://onecompiler.com/lua)**
+#### **you can execute this code with [OneCompiler](https://onecompiler.com/cpp)**
 
 ## usage
 1. type main currency name (that you wanna convert to another)
-2. type main currency amount
-3. type another currency
+2. type another currency
+3. type main currency amount
+   
 #### **example:**
-```lua
-usd
-1000
-kzt
-> 444290.00 kzt
+```c++
+usd kzt 1000
+> 480090
 ```
 
-## current currency
-+ USD
-+ EUR
-+ RUB
-+ KZT
-+ UAH
-
 ## converter roadmap
-- [ ] optimize code to one function
+- [x] optimize code to one function
 - [ ] add more popular currency
-- [ ] convert lua code to c code
+- [x] convert lua code to c++ code
